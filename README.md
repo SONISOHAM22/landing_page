@@ -47,8 +47,8 @@ The landing page includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sonicwave-landing.git
-   cd sonicwave-landing
+   git clone https://github.com/SONISOHAM22/landing_page.git
+   cd landing_page
    ```
 
 2. Install dependencies:
