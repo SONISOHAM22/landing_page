@@ -96,20 +96,6 @@ sonicwave-landing/
 - **Content**: Modify the data in each component file
 - **Images**: Replace the image URLs with your own product images
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](#).
-
-## 📄 License
-
-This project is [MIT](LICENSE) licensed.
-
-## 👨‍💻 Author
-
-- Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
----
 
 Made with ❤️ for premium audio experiences
